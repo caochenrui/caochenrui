@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[我的个人主页-USTC版](http://home.ustc.edu.cn/~caochenrui/)
+
+[我的个人主页-Github版](https://caochenrui.github.io/)(很久没更新啦)
+
 <!--
 **caochenrui/caochenrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
