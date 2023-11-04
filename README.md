@@ -12,6 +12,7 @@ I'm Chenrui Cao, an undergraduate student from USTC. Nice to meet you!
 [![Static Badge](https://img.shields.io/badge/QQ-Contact-282c34?logo=tencentqq&labelColor=maroon)](https://qm.qq.com/cgi-bin/qm/qr?k=qphpipwezIuciJGFclVlVTR0-YiXoQMr)
 [![Static Badge](https://img.shields.io/badge/Telegram-Contact-282c34?logo=telegram&labelColor=blue&logoColor=white)](t.me/Desert_Eagle2003)
 [![Static Badge](https://img.shields.io/badge/Twitter-Contact-282c34?logo=x&labelColor=black&logoColor=white)](https://x.com/Desert_Eagle_)
+<object data="https://img.shields.io/badge/QQ-contact-282c34?logo=tencentqq&logoColor=white&labelColor=maroon&link=tencent%3A%2F%2FAddContact%2F%3FfromId%3D50%26fromSubId%3D1%26subcmd%3Dall%26uin%3D1968562576" width="300" height="200"></object>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=caochenrui&show_icons=true&hide=prs" height="150px">](https://github.com/caochenrui)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caochenrui&layout=compact" height="150px">](https://github.com/caochenrui)
