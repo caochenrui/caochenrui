@@ -8,7 +8,6 @@ I'm Chenrui Cao, an undergraduate student from USTC. Nice to meet you!
 [![Static Badge](https://img.shields.io/badge/Email-Contact-yellow?logo=gmail&logoColor=white)](mailto:caochenrui@mail.ustc.edu.cn)
 [![Static Badge](https://img.shields.io/badge/QQ-Contact-maroon?logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?k=qphpipwezIuciJGFclVlVTR0-YiXoQMr)
 
-<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=你的qq号"><span style="color:red;">点击添加我为qq好友</sapn></a>
 <!-- <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1968562576"><img src="https://img.shields.io/badge/QQ-Contact-282c34?logo=tencentqq&labelColor=maroon" /></a>
 <object data="https://img.shields.io/badge/QQ-Contact-282c34?logo=tencentqq&logoColor=white&labelColor=maroon&link=tencent%3A%2F%2FAddContact%2F%3FfromId%3D50%26fromSubId%3D1%26subcmd%3Dall%26uin%3D1968562576" width="100" height="20"></object> -->
 
