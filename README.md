@@ -17,8 +17,8 @@ I'm Chenrui Cao, an undergraduate student from USTC. Nice to meet you!
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-282c34?logo=telegram&labelColor=22a8e8&logoColor=white&color=282c34)](https://t.me/Desert_Eagle2003)
 [![Twitter](https://img.shields.io/badge/Twitter-Contact-282c34?logo=x&labelColor=black&logoColor=white&color=282c34)](https://x.com/Desert_Eagle_)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=caochenrui&show_icons=true&hide=prs" height="175px">](https://github.com/caochenrui)
-[<img src="https://streak-stats.demolab.com?user=caochenrui&locale=zh_Hans" height="175px">](https://github.com/caochenrui)
+[<img src="https://github-readme-stats.vercel.app/api?username=caochenrui&show_icons=true&hide=prs" height="150px">](https://github.com/caochenrui)
+[<img src="https://streak-stats.demolab.com?user=caochenrui&locale=zh_Hans" height="150px">](https://github.com/caochenrui)
 
 <!-- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caochenrui&layout=compact" height="180px">](https://github.com/caochenrui) -->
 
