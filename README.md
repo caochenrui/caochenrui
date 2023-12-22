@@ -19,7 +19,7 @@ I'm Chenrui Cao, an undergraduate student from USTC. Nice to meet you!
 
 [<img src="https://github-readme-stats.vercel.app/api?username=caochenrui&show_icons=true&hide=prs" height="150px">](https://github.com/caochenrui)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caochenrui&layout=compact" height="150px">](https://github.com/caochenrui)
-![GitHub Streak](https://streak-stats.demolab.com?user=binjie09&locale=zh_Hans)
+![GitHub Streak](https://streak-stats.demolab.com?user=caochenrui&locale=zh_Hans)
 
 <!--
 **caochenrui/caochenrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
