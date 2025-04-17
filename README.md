@@ -15,12 +15,12 @@ I'm Chenrui Cao, an undergraduate student from USTC. Nice to meet you!
 [![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561198969108460&query=count&color=282c34&label=Steam&labelColor=134375&logo=steam&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198969108460)
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fsha-mo-zhi-ying-15-8&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/sha-mo-zhi-ying-15-8)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-282c34?logo=telegram&labelColor=22a8e8&logoColor=white&color=282c34)](https://t.me/Desert_Eagle2003)
-[![Twitter](https://img.shields.io/badge/Twitter-Contact-282c34?logo=x&labelColor=black&logoColor=white&color=282c34)](https://x.com/Desert_Eagle185)
+[![Twitter](https://img.shields.io/badge/Twitter-Contact-282c34?logo=x&labelColor=black&logoColor=white&color=282c34)](https://x.com/Desert_Eagle185) -->
 
 [<img src="https://github-readme-stats.vercel.app/api?username=caochenrui&show_icons=true&hide=prs" height="150px">](https://github.com/caochenrui)
-[<img src="https://streak-stats.demolab.com?user=caochenrui&locale=zh_Hans" height="150px">](https://github.com/caochenrui) -->
+[<img src="https://streak-stats.demolab.com?user=caochenrui&locale=zh_Hans" height="150px">](https://github.com/caochenrui)
 
-<!-- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caochenrui&layout=compact" height="180px">](https://github.com/caochenrui) -->
+<!-- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caochenrui&layout=compact" height="180px">](https://github.com/caochenrui)
 
 <!--
 **caochenrui/caochenrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
