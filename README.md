@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Chenrui Cao, an undergraduate student from USTC. Nice to meet you! 
+I'm Chenrui Cao, a graduate student from USTC. Nice to meet you! 
 
 [![Static Badge](https://img.shields.io/badge/Homepage-USTC-purple?logo=githubsponsors&logoColor=white)](http://home.ustc.edu.cn/~caochenrui/)
 [![Static Badge](https://img.shields.io/badge/Homepage-Github-green?logo=googlebard&logoColor=white)](https://caochenrui.github.io/)
